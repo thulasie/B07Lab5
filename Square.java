@@ -2,13 +2,13 @@ package lab4;
 
 public class Square {
 	
-	Point2 A;
-	Point2 B;
-	Point2 C;
-	Point2 D;
+	Point A;
+	Point B;
+	Point C;
+	Point D;
 	
 	
-	public Square(Point2 A, Point2 B, Point2 C, Point2 D) {
+	public Square(Point A, Point B, Point C, Point D) {
 		this.A = A;
 		this.B = B;
 		this.C = C;
